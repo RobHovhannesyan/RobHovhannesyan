@@ -35,11 +35,14 @@
 - 🏠 **[Airbnb Market Mapping & Pricing](https://github.com/RobHovhannisyan/My-Data-Projects/tree/main/03-Tableau-Project)** — Tableau spatial map and pricing dynamics visualization.
 
 ---
-### 📊 GitHub Activity & Stats
+### 📊 Key Focus Areas & Analytics Metrics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobHovhannisyan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
+| Area | Core Skills & Focus |
+| :--- | :--- |
+| **Data Processing** | SQL Querying, Data Cleaning, ETL Pipelines, Pandas Profiling |
+| **Data Visualization** | Power BI Dashboards, Tableau Maps, Matplotlib, Seaborn |
+| **Automation** | Web Scraping (BeautifulSoup), Scripting (`os`, `shutil`), Email Alerts |
+
 
 
 ---

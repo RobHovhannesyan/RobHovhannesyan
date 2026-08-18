@@ -35,13 +35,12 @@
 - 🏠 **[Airbnb Market Mapping & Pricing](https://github.com/RobHovhannisyan/My-Data-Projects/tree/main/03-Tableau-Project)** — Tableau spatial map and pricing dynamics visualization.
 
 ---
-
 ### 📊 GitHub Activity & Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobHovhannisyan&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobHovhannisyan&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobHovhannisyan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
+
 
 ---
 

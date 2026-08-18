@@ -1,4 +1,4 @@
-# Hi there, I'm Robert 👋
+# Hi there, I'm Rob 👋
 
 ### 📊 Aspiring Junior Data Analyst | Python, SQL, Power BI & Tableau Enthusiast
 
@@ -46,7 +46,10 @@
 
 ---
 
-### 📬 Connect with Me
-- 💼 **LinkedIn:** [Insert LinkedIn Profile URL]
-- 📧 **Email:** [Insert Email Address]
+### 📬 Let's Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roberthovhannesyan632@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/robert-hovhannesyan-601314260)
+
+
 

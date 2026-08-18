@@ -1,4 +1,5 @@
-# Hi there, I'm Rob <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+# <img src="https://readme-badges.vercel.app/api/badge?gradient=tokyonight&text=Welcome!&fontSize=16" /> Hi there, I'm Rob 👋
+
 
 
 <p align="center">

@@ -1,4 +1,5 @@
-# Hi there, I'm Rob 👋
+# Hi there, I'm Rob <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Aspiring%20Junior%20Data%20Analyst&fontSize=35&animation=fadeIn&fontColor=fff" width="100%" />

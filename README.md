@@ -1,10 +1,11 @@
 # Hi there, I'm Rob 👋
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Junior+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+Data+Into+Actionable+Insights">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Junior+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Junior+Data+Analyst;Python+%7C+Pandas+%7C+NumPy+%7C+SQL;Power+BI+%7C+Tableau+%7C+Data+Cleaning;Exploratory+Data+Analysis+(EDA);Turning+Data+Into+Actionable+Insights">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Junior+Data+Analyst;Python+%7C+Pandas+%7C+NumPy+%7C+SQL;Power+BI+%7C+Tableau+%7C+Data+Cleaning;Exploratory+Data+Analysis+(EDA);Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 

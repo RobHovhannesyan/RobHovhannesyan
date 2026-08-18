@@ -1,6 +1,9 @@
 # Hi there, I'm Rob 👋
 
-### 📊 Aspiring Junior Data Analyst | Python, SQL, Power BI & Tableau Enthusiast
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Aspiring%20Junior%20Data%20Analyst&fontSize=35&animation=fadeIn&fontColor=fff" width="100%" />
+</p>
+
 
 ---
 

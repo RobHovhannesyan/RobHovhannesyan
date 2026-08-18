@@ -1,6 +1,7 @@
-# <img src="https://readme-badges.vercel.app/api/badge?gradient=tokyonight&text=Welcome!&fontSize=16" /> Hi there, I'm Rob 👋
-
-
+<h1 align="center">
+  <span style="color: #38bdf8;">Hi there, I'm Rob</span> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px">
+</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Aspiring%20Junior%20Data%20Analyst&fontSize=35&animation=fadeIn&fontColor=fff" width="100%" />
@@ -11,6 +12,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+%7C+Pandas+%7C+NumPy+%7C+SQL;Power+BI+%7C+Tableau+%7C+Data+Cleaning;Exploratory+Data+Analysis+(EDA);Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 

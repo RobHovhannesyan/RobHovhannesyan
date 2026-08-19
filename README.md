@@ -3,7 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px">
 </h1>
 
-📄 **[Download / View My Resume](Robert_Hovhannesyan_Resume.pdf)**
+<a href="Robert_Hovhannesyan_Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/RESUME-View%20%2F%20Download-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+</a>
+
 
 
 

@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px">
 </h1>
 
-📄 **[Download / View My Resume](Robert_Hovhannisyan_Resume.pdf)**
+📄 **[Download / View My Resume](Robert_Hovhannesyan_Resume.pdf)**
 
 
 

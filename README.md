@@ -3,6 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px">
 </h1>
 
+📄 **[Download / View My Resume](Robert_Hovhannisyan_Resume.pdf)**
+
+
+
 <p align="center">
   <a href="https://robhovhannesyan.github.io" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio_Website-007ACC?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Website" />
